@@ -1,5 +1,5 @@
-
-### Hi! I'm Renato Miranda 🙋🏾
+### Hi! I'm Renato Miranda 🙋🏾<br/>
+<a href="https://ibb.co/7WD2gDV"><img src="https://i.ibb.co/ts68Z6c/welcome-to-my-code-world.jpg" alt="welcome-to-my-code-world" border="0"></a>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](renatoman@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-miranda-185269258/)
